@@ -1,4 +1,4 @@
-<%--
+<%@ page import="controller.SessionMonitor" %><%--
   Created by IntelliJ IDEA.
   User: Hadian
   Date: 3/9/2023
